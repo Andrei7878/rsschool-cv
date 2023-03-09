@@ -1,10 +1,10 @@
-#[**rsschool-cv**](https://Andrei7878.github.io/rsschool-cv/cv)
+# [**rsschool-cv**](https://Andrei7878.github.io/rsschool-cv/cv)
 ___
-#**Andrei Voshchula**
+# **Andrei Voshchula**
 ___
-##**Junior Frontend Developer**
+## **Junior Frontend Developer**
 ___
-##**Contact information:**
+## **Contact information:**
 * **E-mail:** andreiwater7878@gmail.com
 * **Telegram:** @andreiwater
 * [**LinkedIn**](https://www.linkedin.com/in/andrei7878)

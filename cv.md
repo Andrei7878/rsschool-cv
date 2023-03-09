@@ -37,3 +37,13 @@ function multiply(a, b){
 }
 ```
 ___
+## **Education and courses**
+* **Belarusian National Technical University:** Water supply and sanitation
+* **IT Overone:** Python developer
+* **Y_lab University:** Dive into python
+* **Stepic.org (BEEGEEK):** Generation Python: A Beginner's Course
+___
+## **Languages:**
+* **Russian** - Native
+* **English** - Elementary(A2)/Intermediate(B1 in process)
+* **Belarusian** - Upper Intermediate(B2)/Advanced(C1 in process)

@@ -31,9 +31,9 @@ ___
 * CSS
 ___
 ## **Code example:**
-'''
+```
 function multiply(a, b){
- return a * b;
+    return a * b;
 }
-'''
+```
 ___
